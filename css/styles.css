@@ -5,6 +5,10 @@ h1, h2 {
     font-weight: 700;
 }
 
+li, p {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 .nav li a {
     color: tomato;
     font-family: "Arial", sans-serif;
