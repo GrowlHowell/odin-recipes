@@ -1,0 +1,16 @@
+h1, h2 {
+    background: grey;
+    color: lightblue;
+    font-family: "Arial", sans-serif;
+    font-weight: 700;
+}
+
+.nav li a {
+    color: tomato;
+    font-family: "Arial", sans-serif;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
